@@ -1,2 +1,2 @@
 # TinyHttpServer
-  This is a TinyHttpServer,which implemented using epoll.
+  This is a TinyHttpServer,which implemented using select.
